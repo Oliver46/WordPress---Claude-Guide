@@ -70,7 +70,10 @@ Use WPforms as the contact form for the contact page.
 can you now convert this website and push it to my domain connect https://pattywacktutorial.com
 
 links: 
-https://www.youtube.com/watch?v=El484PgSHEk&t=1710s
-https://tiberium.app/p/3uTL2aV1aoV9
-https://www.leonoliver.com/claude1/
+youtube: https://www.youtube.com/watch?v=El484PgSHEk&t=1710s
+---------------------------------------------------
+Guide: https://tiberium.app/p/3uTL2aV1aoV9
+---------------------------------------------------
+Website: https://www.leonoliver.com/claude1/
+---------------------------------------------------
 file:///Users/oliverleon/Downloads/oliver-estate_5.html
