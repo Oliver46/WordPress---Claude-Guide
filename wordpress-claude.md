@@ -39,13 +39,19 @@ What I do: [YOUR SERVICES]
 Who I serve:[CUSTOMERS YOU SERVE]
 Main goal of the site: [GET LEADS / BOOK CALLS / SHOWCASE WORK]
 SEO keywords: [KEYWORD 1. KEYWORD 2, KEYWORD 3]
-<br>
+
 Build these 5 pages:
+<br>
 Home — Hero with headline + CTA, trust strip, 3 key benefits, services preview, testimonials, about preview, final CTA
+<br>
 About — Story, mission, what makes me different, CTA
+<br>
 Services — Service grid with descriptions, how-it-works steps, FAQ, CTA
+<br>
 Listings (portfolio/products/properties) — Card grid with Unsplash images, filter bar, CTAs
+<br>
 Contact — Form (Name, Email, Phone, Message), contact info, map, social links
+<br>
 Header: Sticky, logo + nav (Home, About, Services, Listings, Contact) + Contact CTA button + mobile menu
 Footer: Logo, quick links, contact info, socials, copyright
 Requirements:
