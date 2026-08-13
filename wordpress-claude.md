@@ -84,3 +84,49 @@ Guide: https://tiberium.app/p/3uTL2aV1aoV9
 Website: https://www.leonoliver.com/claude1/
 ---------------------------------------------------
 file:///Users/oliverleon/Downloads/oliver-estate_5.html
+
+---------------------------------------------------------------------------------------------
+
+PROMPT (SCREENSHOT VERSION):
+----------------------------
+I'm attaching a screenshot for design inspiration. Build me a complete 6-page website in HTML and CSS based on the style, layout, and vibe of this screenshot — but make it BETTER. I want a unique, modern design that stands out from my competitors. 
+No JavaScript. No flashy animations. Just clean, modern, well-designed pages.
+I have my own design system, so put CSS variables at the top of the stylesheet for colors, fonts, spacing, and border-radius — I'll swap in my own values after.
+
+MY BUSINESS INFO — use this to generate all content (headlines, copy, services, blog titles, meta descriptions, etc.):
+MY BUSINESS INFO — use this to generate all content AND inform the design direction:
+Business name: [ENTER BUSINESS NAME]
+What you do / services offered: [LIST SERVICES]
+Who you serve (target audience): [DESCRIBE IDEAL CUSTOMER — be specific]
+Location (if local): [CITY/AREA OR LEAVE BLANK]
+SEO keywords to target: [LIST 5-10 KEYWORDS]
+Brand tone: [PROFESSIONAL / FRIENDLY / BOLD / LUXURY / PLAYFUL / MINIMALIST]
+Primary CTA (what you want visitors to do): [E.G., BOOK A FREE CALL, GET A QUOTE, SUBSCRIBE]
+Contact info: [EMAIL, PHONE, SOCIAL LINKS — OR LEAVE BLANK FOR PLACEHOLDERS]
+Write all copy directly to the target audience, weave keywords in naturally (no stuffing), and match the brand tone. Headlines should be benefit-focused, not generic.
+Pages to create (all linked in the navigation and footer):
+Home
+About
+Services
+Portfolio
+Contact
+Requirements:
+Separate HTML file per page (index.html, about.html, services.html, portfolio.html, blog.html, contact.html) with one shared styles.css.
+All links use relative paths so the site works locally when opened by double-clicking index.html.
+Mobile-first responsive design — perfect on phone, tablet, and desktop.
+SEO optimized — unique meta tags per page (title, description, Open Graph, Twitter cards) using the business info and keywords, semantic HTML5 tags, schema.org JSON-LD (Local Business or Organization) in the <head>.
+Images: use https://source.unsplash.com/[width]x[height]/?[keyword] for all photos — pick keywords that match the business and section context (e.g., "workspace", "team", "interior"). Every image needs descriptive alt text and loading="lazy".
+No external libraries, no frameworks, no icon packs. Use inline SVG for icons.
+Include a favicon link in the <head> (use an emoji favicon via SVG data URI so I don't need an external file).
+Design direction:
+Modern layouts — grid-based sections, strong visual hierarchy, thoughtful whitespace, asymmetric layouts where it fits. Subtle hover states are fine.
+Each page should feel distinct, not the same template recycled 6 times.
+Include at least 2 unique section types most competitor sites DON'T have — pick from: process timeline, comparison table, FAQ accordion (CSS-only using <details> and <summary>), pricing tiers, stats/results section, testimonial grid, or before/after layout.
+Footer with copyright year, quick links, social icons (inline SVG), and contact info.
+Forms and accessibility:
+Contact form — pure HTML with required attributes and HTML5 input types for built-in validation.
+WCAG AA accessible, keyboard navigable, proper focus states styled in CSS.
+Build all 6 pages and the stylesheet in full. No placeholders for content, no "add content here" shortcuts, no truncation. Make it production-ready.
+
+
+
