@@ -64,6 +64,10 @@ SEO-ready (meta titles, H1s, alt text, semantic HTML) Build it as one artifact I
 --------------------------------------------------------------------------------------------------
 Guide To Import The Website (Claude  Desktop ONLY)
 
+I am giving you an HTML copy of my new website I created with claude design.
+
+I want you to take this design and convert it for the Elementor page builder for WordPress. Make sure use the native Elementor and not HTML widgets. Use the container and not inner sections. Also I have disabled the atomic editor, do not use the atomic elements. We have installed novamira plugin to help you understand how to use Elementor elements better.
+
 Create a new Menu for pages created for this design. Make sure to also set the home page. 
 
 I want you to take this design and convert it for the elementor page builder for wordpress. Make sure to use the native elementor elements and not HTML widgets. Use the container and not inner sections. Also i have disabled the atmoic editor, do not use the atmoic elements. We have installed novamira plugin to help you understand how to use elementor elements better
