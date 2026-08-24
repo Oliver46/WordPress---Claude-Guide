@@ -62,7 +62,7 @@ Unsplash images that fit my niche
 SEO-ready (meta titles, H1s, alt text, semantic HTML) Build it as one artifact I can preview and export.
 
 --------------------------------------------------------------------------------------------------
-GUIDE To Import The Website (Claude  Desktop ONLY)
+GUIDE To IMPORT The WEBSITE (Claude  Desktop ONLY)
 
 I am giving you an HTML copy of my new website I created with claude design.
 
@@ -89,7 +89,7 @@ file:///Users/oliverleon/Downloads/oliver-estate_5.html
 
 ---------------------------------------------------------------------------------------------
 
-PPROMPT (SCREENSHOT VERSION):
+PROMPT (SCREENSHOT VERSION):
 I'm attaching a screenshot for design inspiration. Build me a complete 6-page website in HTML and CSS based on the style, layout, and vibe of this screenshot — but make it BETTER. I want a unique, modern design that stands out from my competitors. <br>
 No JavaScript. No flashy animations. Just clean, modern, well-designed pages.
 I have my own design system, so put CSS variables at the top of the stylesheet for colors, fonts, spacing, and border-radius — I'll swap in my own values after.
