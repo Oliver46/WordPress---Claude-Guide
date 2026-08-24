@@ -176,3 +176,13 @@ Forms and accessibility:
 Contact form — pure HTML with required and HTML5 input types.
 WCAG AA accessible, keyboard navigable, proper focus states.
 Before you build, give me a 3-sentence summary of the design direction you're going with so I can confirm. Then build all 6 pages and the stylesheet in full. No placeholders, no shortcuts, no truncation.
+
+
+-----------------------------------------------------------------------------------------------------------------
+EXAMPLE ABOUT HOW TO CREATE A PROMPT FOR CLAUDE TO AUDIT AND SCORE A WEBSITE THAT I CREATED 
+------------------------------------------------------------------------------------------------------------------
+You are a senior UX/UI designer, conversion-rate optimization specialist, SEO consultant, accessibility expert, frontend developer, and website performance specialist.
+
+I have just finished building a website and I want you to perform a professional, brutally honest audit of the entire website.
+
+Your goal is not to compliment the website. Your goal is to identify what is working, what is weak, what looks amateur, what could hurt conversions, and what should be improved to make the website feel premium, modern, trustworthy, fast, and highly professional.
