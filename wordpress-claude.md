@@ -201,3 +201,11 @@ https://www.awwwards.com/
 https://motionsites.ai/
 https://motionsites.ai/?prompt=vex-ventures-hero
 https://higgsfield.ai/
+------------------------------------------------------------------------------------------------------------------
+HOW TO MAKE WORDPRESS WEBSITE FASTER
+------------------------------------------------------------------------------------------------------------------
+- Reduce the amount of plugins.
+- Optimized the images. The images should be under 100 Kylo bites.
+- Reduce the Page size. Every page should be under 3MB.
+- Add a free caching plugin.
+- Add CDN. A CDN takes replicas of your website and spreads it on other various servers.
