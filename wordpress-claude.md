@@ -88,8 +88,9 @@ Website: https://www.leonoliver.com/claude1/
 file:///Users/oliverleon/Downloads/oliver-estate_5.html
 
 ---------------------------------------------------------------------------------------------
+PROMPT (SCREENSHOT VERSION): (Con captura de pantalla o diseño)
+---------------------------------------------------------------------------------------------
 
-PROMPT (SCREENSHOT VERSION):
 I'm attaching a screenshot for design inspiration. Build me a complete 6-page website in HTML and CSS based on the style, layout, and vibe of this screenshot — but make it BETTER. I want a unique, modern design that stands out from my competitors. <br>
 No JavaScript. No flashy animations. Just clean, modern, well-designed pages.
 I have my own design system, so put CSS variables at the top of the stylesheet for colors, fonts, spacing, and border-radius — I'll swap in my own values after.
@@ -129,10 +130,13 @@ Contact form — pure HTML with required attributes and HTML5 input types for bu
 WCAG AA accessible, keyboard navigable, proper focus states styled in CSS.
 Build all 6 pages and the stylesheet in full. No placeholders for content, no "add content here" shortcuts, no truncation. Make it production-ready.
 
-PROMPT (NO SCREENSHOT VERSION):
+---------------------------------------------------------------------------------------------
+PROMPT (NO SCREENSHOT VERSION):  (Sin captura de pantalla o diseño)
+---------------------------------------------------------------------------------------------
 Build me a complete 6-page website in HTML and CSS with a unique, modern design that stands out from my competitors. I'm not giving you a screenshot — I want you to design something original based on the business info below.
 No JavaScript. No flashy animations. Just clean, modern, well-designed pages.
 I have my own design system, so put CSS variables at the top of the stylesheet for colors, fonts, spacing, and border-radius — I'll swap in my own values after.
+
 MY BUSINESS INFO — use this to generate all content AND inform the design direction:
 Business name: [ENTER BUSINESS NAME]
 What you do / services offered: [LIST SERVICES]
@@ -142,7 +146,9 @@ SEO keywords to target: [LIST 5-10 KEYWORDS]
 Brand tone: [PROFESSIONAL / FRIENDLY / BOLD / LUXURY / PLAYFUL / MINIMALIST]
 Primary CTA (what you want visitors to do): [E.G., BOOK A FREE CALL, GET A QUOTE, SUBSCRIBE]
 Contact info: [EMAIL, PHONE, SOCIAL LINKS — OR LEAVE BLANK FOR PLACEHOLDERS]
-DESIGN DIRECTION — pick ONE style that fits the brand tone and industry:
+-----------------------------------------------------------------------------------------
+DESIGN DIRECTION — PICK ONE STYLE that FITS the BRAND TONE and INDUSTRY:
+-----------------------------------------------------------------------------------------
 Editorial — magazine-inspired, big typography, lots of whitespace, asymmetric grids (good for: consultants, writers, luxury brands)
 Bento Grid — modular card-based sections, structured but playful (good for: SaaS, tech, creators)
 Bold & Brutalist — heavy type, sharp edges, high contrast, raw feel (good for: agencies, bold creators, fashion)
@@ -150,7 +156,9 @@ Soft & Organic — rounded corners, soft shadows, warm feel (good for: wellness,
 Corporate Modern — clean, structured, trustworthy (good for: finance, legal, B2B services)
 Dark & Premium — dark backgrounds, accent highlights, luxury feel (good for: high-end services, tech, coaching)
 My choice: [PICK ONE]
+------------------------------------------------------------------------------------------
 Write all copy directly to the target audience, weave keywords in naturally, and match the brand tone. Headlines should be benefit-focused, not generic.
+------------------------------------------------------------------------------------------
 Pages to create (all linked in the navigation and footer):
 Home
 About
@@ -158,6 +166,7 @@ Services
 Portfolio
 Blog (generate 3 sample blog post cards with titles based on the keywords)
 Contact
+------------------------------------------------------------------------------------------
 Requirements:
 Separate HTML file per page (index.html, about.html, services.html, portfolio.html, blog.html, contact.html) with one shared styles.css.
 All links use relative paths so the site works locally.
@@ -166,12 +175,13 @@ SEO optimized — unique meta tags per page, semantic HTML5, schema.org JSON-LD 
 Images: use https://source.unsplash.com/[width]x[height]/?[keyword] for all photos with relevant keywords. Every image needs descriptive alt text and loading="lazy".
 No external libraries or frameworks. Inline SVG for icons.
 Emoji favicon via SVG data URI.
+-----------------------------------------------------------------------------------------
 Design must include:
 Modern grid-based layouts, strong hierarchy, thoughtful whitespace.
 Each page feels distinct, not recycled.
 At least 2 unique section types most competitor sites don't have — pick from: process timeline, comparison table, FAQ accordion (CSS <details>/<summary>), pricing tiers, stats/results section, testimonial grid, before/after layout.
 Footer with copyright year, quick links, social icons (inline SVG), contact info.
-
+-----------------------------------------------------------------------------------------
 Forms and accessibility:
 Contact form — pure HTML with required and HTML5 input types.
 WCAG AA accessible, keyboard navigable, proper focus states.
@@ -199,6 +209,10 @@ https://21st.dev/
 
 https://21st.dev/?qt=hero
 
+https://getdesign.md/
+
+https://designmd.ai/explore
+
 https://www.awwwards.com/
 
 https://motionsites.ai/
@@ -210,6 +224,8 @@ https://higgsfield.ai/
 https://dinamosites.com/ | <!--  https://www.youtube.com/watch?v=-8j4kYvZha0  -->
 
 https://podie.dev/
+
+https://tiberium.app/p/2FwUcExQQqN2
 
 https://labs.google/fx/tools/flow?gad_source=1&gad_campaignid=23877477807&gbraid=0AAAABDRA0IX38-XiJmmMKTvpG14hegurP&gclid=Cj0KCQjw79nUBhCgARIsADSHka2hTmq6TWvofz_AOVGq7xTjJ1tNUKNEnCWdb5fFrCBG7n9DH29hrSIaAqW2EALw_wcB
 
