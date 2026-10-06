@@ -209,6 +209,8 @@ https://higgsfield.ai/
 
 https://dinamosites.com/ | <!--  https://www.youtube.com/watch?v=-8j4kYvZha0  -->
 
+https://podie.dev/
+
 https://labs.google/fx/tools/flow?gad_source=1&gad_campaignid=23877477807&gbraid=0AAAABDRA0IX38-XiJmmMKTvpG14hegurP&gclid=Cj0KCQjw79nUBhCgARIsADSHka2hTmq6TWvofz_AOVGq7xTjJ1tNUKNEnCWdb5fFrCBG7n9DH29hrSIaAqW2EALw_wcB
 
 ------------------------------------------------------------------------------------------------------------------
