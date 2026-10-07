@@ -229,6 +229,8 @@ https://tiberium.app/p/2FwUcExQQqN2
 
 https://labs.google/fx/tools/flow?gad_source=1&gad_campaignid=23877477807&gbraid=0AAAABDRA0IX38-XiJmmMKTvpG14hegurP&gclid=Cj0KCQjw79nUBhCgARIsADSHka2hTmq6TWvofz_AOVGq7xTjJ1tNUKNEnCWdb5fFrCBG7n9DH29hrSIaAqW2EALw_wcB
 
+https://www.youtube.com/watch?v=PTf6YCZrD0M
+
 ------------------------------------------------------------------------------------------------------------------
 HOW TO MAKE WORDPRESS WEBSITE FASTER
 ------------------------------------------------------------------------------------------------------------------
