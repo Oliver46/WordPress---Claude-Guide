@@ -196,6 +196,53 @@ You are a senior UX/UI designer, conversion-rate optimization specialist, SEO co
 I have just finished building a website and I want you to perform a professional, brutally honest audit of the entire website.
 
 Your goal is not to compliment the website. Your goal is to identify what is working, what is weak, what looks amateur, what could hurt conversions, and what should be improved to make the website feel premium, modern, trustworthy, fast, and highly professional.
+
+------------------------------------------------------------------------------------------------------------------
+WEBSITE DISCOVERY AND STRATEGY PROMPT 
+------------------------------------------------------------------------------------------------------------------
+
+Act as an experienced UX strategist and web design consultant. Help me translate my client's business ideas into a clear, practical website plan.
+
+Analyze the client information below and create:
+
+Project summary: Explain the business, target audience, main value proposition, and website goals.
+
+Audience needs: Identify the visitors' likely questions, concerns, and goals. Clearly distinguish confirmed facts from assumptions.
+
+Site structure: Recommend the required pages and organize them into a logical sitemap.
+
+Navigation: Suggest clear menu labels and explain why they make sense for the audience.
+
+Homepage strategy: Recommend the section order and explain the purpose of each section.
+
+Visual direction: Propose three suitable visual directions, including colors, typography, layout characteristics, and overall mood.
+
+Imagery: Recommend the types of photos, illustrations, and graphics that would best communicate the brand.
+
+Functionality: Identify the necessary features, integrations, and forms.
+
+Content plan: List the content and assets the client needs to provide.
+
+Open questions: Identify missing information that could materially change the recommendations.
+
+Do not invent business facts or assume that the client's personal design preferences are automatically best for their audience. Explain the reasoning behind your recommendations. Keep the plan appropriate to the client's budget, technical requirements, and business goals.
+------------------------------------------------------------------------------------------------------------------
+Client information:
+------------------------------------------------------------------------------------------------------------------
+Business name:
+Industry:
+Products or services:
+Target audience:
+Primary website goal:
+Secondary goals:
+Required pages or features:
+Existing website, if any:
+Websites the client likes:
+Visual preferences:
+Available logo, photography, and content:
+Budget:
+Target launch date:
+
 ------------------------------------------------------------------------------------------------------------------
 AI TOOLS
 ------------------------------------------------------------------------------------------------------------------
